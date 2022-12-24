@@ -1,0 +1,8 @@
+need to install node modules and other packages to run the application
+should use "--force" while installation because of one my installed package
+
+
+npm i --force
+
+username : admin
+password : admin123 //need to click 3times at first to login
